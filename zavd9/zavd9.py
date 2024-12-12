@@ -26,3 +26,5 @@ if __name__ == "__main__":
         list_imports(pe_file)
     except Exception as e:
         print(f"Помилка при аналізі файлу: {e}")
+
+#C:\Windows\System32\kernel32.dll
